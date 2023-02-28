@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+  <head>
+    <h1 id="head">Editing pages</h1>
+    <br>
+    <p id="para">Drag the link below to your bookmark bar.</p>
+    <a href="javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0">LINK!!!</a>
+    <style>
+      #head {
+        text-align:center;
+        }
+     </style>
+  </head>
+</html>
